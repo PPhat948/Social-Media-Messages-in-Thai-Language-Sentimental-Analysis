@@ -24,3 +24,6 @@ To run this project, you will need the following libraries:
 8. Data Preparation for LSTM Model: Prepare the dataset for the LSTM model by padding sequences to ensure consistent input shapes.
 9. Model Training and Evaluation (LSTM): Train and evaluate an LSTM model to predict sentiment.
 10. Testing with Input Text: Test the trained model with some input text.
+
+## Result 
+Archeive 70% accuracy, 69% precision and 70% recall
