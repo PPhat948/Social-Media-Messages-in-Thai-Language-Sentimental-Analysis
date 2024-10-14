@@ -1,4 +1,4 @@
-# Social Media Messages in Thai Language Sentimental Analysis
+# Thailand Social Media Massages Sentimental Analysis
 ## Overview
 This is my first NLP project, which I created to practice my NLP skills by using LSTM model to doing sentimental analysis of social media messages in Thai Language.
 ## Dataset
